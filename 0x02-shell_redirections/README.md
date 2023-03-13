@@ -1,3 +1,1 @@
-#!/bin/bash
-my read me
-
+# 0x02 shell, l/o Readirection and filters 
